@@ -111,16 +111,14 @@ BUG提交或者查看已经解决的问题： https://github.com/997862/www.1230
 
 ###1.3.3
 
-*	限定多个车次刷票 [#29](https://github.com/997862/www.12306.cn/issues/29)
-*	Firefox greasemonkey插件支持 [#21](https://github.com/997862/www.12306.cn/issues/21)
-*	更新自动提交代码 [#25](https://github.com/997862/www.12306.cn/issues/25)
-
+*	限定多个车次刷票
+*	Firefox greasemonkey插件支持
+*	更新自动提交代码
 ###1.3.2
 
-*	改变刷票页面字体高亮颜色 [#14](https://github.com/997862/www.12306.cn/issues/14)
-*	增加提交频率和停止提交订单功能 [#13](https://github.com/997862/www.12306.cn/issues/13)
-*	订单中日期修改 [#12](https://github.com/997862/www.12306.cn/issues/12)
-
+*	改变刷票页面字体高亮颜色
+*	增加提交频率和停止提交订单功能
+*	订单中日期修改
 
 ###1.3.1
 
