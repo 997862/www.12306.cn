@@ -50,20 +50,20 @@ BUG提交或者查看已经解决的问题： https://github.com/997862/www.1230
 
 首先输入好登录名，密码，和验证码。 点击自动登录，即可进行多次尝试登录，直至登录成功
 
-![登录](https://github.com/997862/www.12306.cn/blob/master/login.jpg)
+![登录](https://raw.github.com/997862/www.12306.cn/master/login.jpg)
 
 ###刷票
 
 登录之后到车票预订页面，选择好出发地，目的地，和出发时间，点击开始刷票，就会不断更新火车票，只到有票为止，刷到之后会有通知提示和声音提示
 
-![查询](https://github.com/997862/www.12306.cn/blob/master/query.jpg)
+![查询](https://raw.github.com/997862/www.12306.cn/master/query.jpg)
 
 ###订单
 
 当跳转到订单页时，如果没有选择用户会自动选择第一个用户，需要用户自己输入验证码
 自动提交订单功能会在用户过多等预订失败的情况下，自动重新提交订单
 
-![订单](https://github.com/997862/www.12306.cn/blob/master/order.jpg)
+![订单](https://raw.github.com/997862/www.12306.cn/master/order.jpg)
 
 那些贡献者们....
 ------------
